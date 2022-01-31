@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <div className="flex h-screen bg-black">
       <Head>
-        <title>Platforms on Vercel</title>
+        <title>Web3 Rooms!</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
@@ -13,7 +13,7 @@ export default function Home() {
         <Image
           width={512}
           height={512}
-          src="/logo.png"
+          src="/lomplaylogo.svg"
           alt="Platforms on Vercel"
         />
       </div>
